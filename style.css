@@ -139,7 +139,7 @@ footer {
 footer:after {
     content: " ";
     border-left: 100vw solid #fff;
-    border-top: 5.6 solid transparent;
+    border-top: 5.6vw solid transparent;
     border-bottom: 0vw solid transparent;
     width: 0;
     height: 15px;
