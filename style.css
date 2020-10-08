@@ -15,7 +15,7 @@ header:after{
     content: " "; 
     border-left: 100vw solid #fff;
     border-top: 0vw solid transparent;
-    border-bottom: 6.5vw solid transparent;
+    border-bottom: 5.6vw solid transparent;
     width: 0;
     height: 0;
 }
@@ -24,7 +24,7 @@ header span{
     font-style: normal;
     font-weight: normal;
     color: #F5A623 ;
-    transform: rotate(-6.5deg);
+    transform: rotate(-4.5deg);
     display: inline-block;
     top: 5px;
     left: 20px;
